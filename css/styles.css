@@ -1,0 +1,118 @@
+body {
+    background: white;
+}
+nav {
+    background-color: rgb(136, 176, 75);
+    padding: 8px;
+    margin: 0;
+}
+li {
+    display: inline-block;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: right;
+}
+.the {
+    color: white;
+}
+.a {
+    text-align: right;
+    padding: 0 1000px 10px 0;
+}
+a {
+    color: blue;
+}
+main {
+    margin: 0 300px;
+}
+.b {
+    background-color: blue;
+}
+img {
+    width: 500px;
+}
+h1 {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    float: right;
+    font-size: 25px;
+    color: white;
+}
+.two {
+    background-color: rgb(235, 184, 75);
+    margin: 0;
+    height: 400px;
+    padding: 20px; 
+}
+h2 {
+    font-family: Arial;
+}
+p {
+    font-family: Arial;
+    font-size: 20px;
+}
+.three {
+    background-color: lightgrey;
+    margin: 0;
+    height: 700px;
+    padding: 20px;
+}
+.c {
+    margin: 20px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.first {
+    width: 250px;
+    height: 250px;
+    grid-row: 1;
+    grid-column: 1;
+}
+.second {
+    width: 250px;
+    height: 250px;
+    grid-row: 1;
+    grid-column: 2;
+}
+.third {
+    width: 250px;
+    height: 250px;
+    grid-row: 1;
+    grid-column: 3;
+}
+.fourth {
+    width: 250px;
+    height: 250px;
+    grid-row: 2;
+    grid-column: 1;
+}
+.fifth {
+    width: 250px;
+    height: 250px;
+    grid-row: 2;
+    grid-column: 2;
+}
+.four {
+    background-color: rgba(6, 6, 175, 0.87);
+    margin: 0;
+    height: 400px;
+    padding: 20px;
+}
+span {
+    color: red;
+    padding: 50px 100px;
+    font-size: 24px; 
+}
+.d {
+    color: white;
+}
+footer {
+    background-color: rgb(136, 176, 75);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: right;
+    padding: 16px 20px;    
+}
